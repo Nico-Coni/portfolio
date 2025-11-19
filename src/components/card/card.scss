@@ -1,0 +1,29 @@
+.card {
+    width: 500px;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #11151D;
+    border-radius: 15px;
+    padding: 10px;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+
+    h2 {
+        font-size: 30px;
+        margin: 10px 0px 0px 0px;
+        color: #D76C58;
+    }
+
+    img {
+        width: 200px;
+        height: 150px;
+        object-fit: cover;
+        border-radius: 10px;
+        margin: 10px;
+    }
+
+    &:hover {
+        transform: scale(1.1);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+}

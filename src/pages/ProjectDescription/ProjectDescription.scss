@@ -1,0 +1,62 @@
+.project-description {
+    margin-top: 30px;
+
+    h2 {
+        font-size: 30px;
+        margin: 0px;
+        color: #D76C58;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: row;
+        background-color: #11151D;
+        border-radius: 15px;
+        gap: 20px;
+        margin: 30px 0px 30px 0px;
+        padding: 30px;
+
+        .image-project {
+            max-width: 600px;
+            max-height: 450px;
+            border-radius: 15px;
+        }
+
+        .details {
+
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+            .objectives-title {
+                color: #D76C58;
+            }
+
+            .objectives-list {
+                display: flex;
+                flex-direction: column;
+
+                .objectives-item {
+                    text-align: left;
+                }
+            }
+
+            .project-links {
+                font-size: 24px;
+                vertical-align: middle;
+
+                a {
+                    margin-left: 10px;
+                    color: inherit;
+                    text-decoration: none;
+
+                    img {
+                        width: 24px;
+                        height: 24px;
+                    }
+
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Home": "[ Accueil ]",
+    "Projects": "[ Mes Projets ]",
+    "frFlag": "Drapeau Francais",
+    "enFlag": "Drapeau Anglais",
+    "Bio": "Développeur front-end spécialisé en JavaScript et React. Je crée des interfaces modernes et performantes, avec une attention particulière portée à la qualité du code, l’UX et la maintenabilité.",
+    "Booki": {
+        "Title": "Booki",
+        "Description": "Projet de site web pour une agence de voyage, mettant en avant des destinations populaires avec un design épuré et réactif."
+    },
+    "OhMyFood": {
+        "Title": "Oh My Food!",
+        "Description": "Projet de restauration web visant à améliorer l'expérience utilisateur avec des animations CSS avancées."
+    },
+    "GameOn": {
+        "Title": "GameOn",
+        "Description": "Application web de recherche de jeux vidéo, offrant des fonctionnalités de filtrage et une interface utilisateur intuitive."
+    },
+    "FishEye": {
+        "Title": "FishEye",
+        "Description": "Portfolio de photographies mettant en valeur le travail d'un photographe professionnel avec une navigation fluide et un design moderne."
+    },
+    "LesPetitsPlats": {
+        "Title": "Les Petits Plats",
+        "Description": "Application de recettes culinaires permettant aux utilisateurs de rechercher, filtrer et sauvegarder leurs recettes préférées."
+    },
+    "Billed": {
+        "Title": "Billed",
+        "Description": "Application de facturation pour les petites entreprises, facilitant la gestion des clients, des factures et des paiements."
+    },
+    "Learn@Home": {
+        "Title": "Learn@Home",
+        "Description": "Plateforme d'apprentissage en ligne offrant des cours interactifs et des ressources éducatives pour divers sujets."
+    },
+    "Kasa": {
+        "Title": "Kasa",
+        "Description": "Application de location immobilière mettant en avant des annonces avec des photos, descriptions et avis utilisateurs."
+    },
+    "SportSee": {
+        "Title": "SportSee",
+        "Description": "Tableau de bord de suivi d'activité sportive, fournissant des visualisations de données claires et interactives."
+    },
+    "ArgentBank": {
+        "Title": "Argent Bank",
+        "Description": "Site web bancaire offrant une interface utilisateur sécurisée et conviviale pour la gestion des comptes et transactions."
+    },
+    "HRNet": {
+        "Title": "HRNet",
+        "Description": "Application de gestion des ressources humaines permettant la création, la modification et la suppression des employés avec une interface utilisateur intuitive."
+    }
+}

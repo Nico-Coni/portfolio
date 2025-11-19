@@ -1,0 +1,36 @@
+.carousel-container {
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+
+    .img-carousel {
+        width: 700px;
+        height: 500px;
+        object-fit: contain;
+        border-radius: 15px;
+        padding: 5px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        transition: opacity 0.3s ease-in-out;
+        opacity: 1;
+
+        &.fade {
+            opacity: 0
+        }
+    }
+
+    .carousel-button {
+        background-color: transparent;
+        border: none;
+        font-size: 3rem;
+        cursor: pointer;
+        align-self: center;
+        color: #7F5056;
+        padding: 10px;
+
+        &:hover {
+            color: #D76C58;
+        }
+    }
+}

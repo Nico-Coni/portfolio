@@ -1,0 +1,233 @@
+{
+    "Booki": {
+        "title": "Booki",
+        "description": "Dans ce projet, j'ai créé la page d'accueil d'une agence de voyage en utilisant HTML et CSS.",
+        "objectives": [
+            "Decouverte du HTML et CSS",
+            "Mise en place d'un design responsive",
+            "Utilisation de Flexbox et Grid",
+            "Approche en desktop-first",
+            "Lire une maquette Figma"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS"
+        ],
+        "link": "https://nico-coni.github.io/Booki/",
+        "github": "https://github.com/Nico-Coni/Booki",
+        "image": "/assets/Booki_Screenshot.png",
+        "id": 0
+    },
+    "Ohmyfood": {
+        "title": "Ohmyfood",
+        "description": "Ce projet m'a amené à travailler sur l'interface mobile-first d'un site de reservation dans des restaurants parisiens.",
+        "objectives": [
+            "Approche mobile-first",
+            "Utilisation de Sass pour le CSS",
+            "Animation avec keyframes"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "Sass"
+        ],
+        "link": "https://nico-coni.github.io/Ohmyfood/",
+        "github": "https://github.com/Nico-Coni/Ohmyfood",
+        "image": "/assets/OhMyFood_Screenshot.png",
+        "id": 1
+    },
+    "GameOn": {
+        "title": "GameOn",
+        "description": "Ce projet est une introduction au JavaScript, où l'objectif était de réaliser toute la logique d'un formulaire pour une entreprise qui organise des concours de jeux.",
+        "objectives": [
+            "Utilisation de JavaScript pour l'interactivité",
+            "Manipulation du DOM",
+            "Gestion des événements",
+            "Validation de formulaires",
+            "Utilisation des expressions régulières"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "link": "https://nico-coni.github.io/GameOn/",
+        "github": "https://github.com/Nico-Coni/GameOn",
+        "image": "/assets/GameOn_Screenshot.png",
+        "id": 2
+    },
+    "Fisheye": {
+        "title": "Fisheye",
+        "description": "Dans ce projet, j'ai travaillé sur le développement d'un site web pour une platefrome d'artistes.",
+        "objectives": [
+            "Utilisation avancée de JavaScript",
+            "Manipulation du DOM",
+            "Création de composants réutilisables (design patterns)",
+            "Accessibilité web",
+            "Utilisation de fichier JSON pour les données",
+            "Utilisation d'un Linter"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "link": "",
+        "github": "https://github.com/Nico-Coni/FishEye",
+        "image": "/assets/FishEye_Screenshot.png",
+        "id": 3
+    },
+    "LesPetitsPlats": {
+        "title": "Les Petits Plats",
+        "description": "Ce projet est un site de recettes de cuisine mettant en avant l'utilisation d'un algorithme de recherche et de tri efficace.",
+        "objectives": [
+            "Création d'un algorithme de recherche et de tri",
+            "Manipulation avancée du DOM",
+            "Optimisation des performances",
+            "Accessibilité web",
+            "Utilisation de Bootstrap",
+            "Utilisation de JsBench.ch pour comparer les performances des algorithmes natifs et fonctionnels"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "link": "https://nico-coni.github.io/Les_petits_plats/",
+        "github": "https://github.com/Nico-Coni/Les_petits_plats",
+        "image": "/assets/LesPetitsPlats_Screenshot.png",
+        "id": 4
+    },
+    "Billed": {
+        "title": "Billed",
+        "description": "Ce projet à pour objectif de découvrir les bases du débugage d'une application JavaScript existante.",
+        "objectives": [
+            "Identifier et corriger les bugs dans une application JavaScript",
+            "Utilisation des outils de débogage du navigateur",
+            "Compréhension du code existant",
+            "Ecriture de tests unitaires et tests d'intégration avec Jest",
+            "Elaboration d'un plan de test end-to-end"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "API"
+        ],
+        "link": "",
+        "github": "https://github.com/Nico-Coni/Billed-app-FR-Front",
+        "image": "/assets/Billed_Screenshot.png",
+        "id": 5
+    },
+    "Learn@Home": {
+        "title": "Learn@Home",
+        "description": "Ce projet consiste à définir les besoins et la modélisation d'une solution technique pour une association de soutien scolaire, en adoptant une méthodologie agile",
+        "objectives": [
+            "Création de diagrammes UML",
+            "Redaction d'User Stories",
+            "Maquettage d'interfaces utilisateur sur Figma",
+            "Découpage des fonctionnalités en tâches techniques pour les intégrer dans un Kanban"
+        ],
+        "technologies": [
+            "Figma",
+            "Notion",
+            "Draw.io"
+        ],
+        "link": "",
+        "github": "",
+        "image": "/assets/Learn@Home_Screenshot.png",
+        "id": 6
+    },
+    "Kasa": {
+        "title": "Kasa",
+        "description": "Dans ce projet, le but était la découverte de React et de React Router en créant une application de location immobilière.",
+        "objectives": [
+            "Découverte de React",
+            "Utilisation de composants fonctionnels et hooks",
+            "Gestion des routes avec React Router",
+            "Gestion des états avec useState et useEffect",
+            "Responsive design avec SCSS"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "React Router"
+        ],
+        "link": "https://nico-coni.github.io/Kasa/",
+        "github": "https://github.com/Nico-Coni/Kasa",
+        "image": "/assets/Kasa_Screenshot.png",
+        "id": 7
+    },
+    "SportSee": {
+        "title": "SportSee",
+        "description": "Dans ce projet, le but était d'interpreter des données récupéré via une API, à l'aide de graphiques.",
+        "objectives": [
+            "Utilisation de Recharts pour les graphiques",
+            "Consommation d'une API REST",
+            "Gestion des données avec useState et useEffect",
+            "Responsive design avec SCSS"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Recharts",
+            "API"
+        ],
+        "link": "",
+        "github": "https://github.com/Nico-Coni/SportSee",
+        "image": "/assets/SportSee_Screenshot.png",
+        "id": 8
+    },
+    "ArgentBank": {
+        "title": "Argent Bank",
+        "description": "Dans ce projet, j'ai dévoloppé le front d'une application bancaire en ligne en utilisant React et Redux pour la gestion des états",
+        "objectives": [
+            "Utilisation de Redux pour la gestion des états",
+            "Consommation d'une API REST",
+            "Authentification et autorisation des utilisateurs",
+            "Responsive design avec SCSS",
+            "Gestion des formulaires et validation",
+            "Ecriture du Swagger de la partie transaction"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Redux",
+            "API"
+        ],
+        "link": "",
+        "github": "https://github.com/Nico-Coni/ArgentBank",
+        "image": "/assets/ArgentBank_Screenshot.png",
+        "id": 9
+    },
+    "HRNet": {
+        "title": "HRNet",
+        "description": "Ce projet a pour but de convertir une application existante de jQuery vers React, en améliorant la structure du code et en utilisant Redux pour la gestion des états.",
+        "objectives": [
+            "Conversion de jQuery vers React",
+            "Utilisation de Redux pour la gestion des états",
+            "Refactorisation du code pour une meilleure maintenabilité",
+            "Création de composants réutilisables",
+            "Responsive design avec SCSS",
+            "Publication de Plugin sur NPM"
+        ],
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Redux",
+            "API"
+        ],
+        "link": "https://hr-net-nico-coni.vercel.app/",
+        "github": "https://github.com/Nico-Coni/HRNet",
+        "image": "/assets/HRNet_Screenshot.png",
+        "id": 10
+    }
+}

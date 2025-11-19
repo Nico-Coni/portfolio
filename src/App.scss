@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+.wide-structure {
+  width: 99.2vw;
+}
+
+.standard-structure {
+  width: 1280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-self: center;
+  text-align: center;
+}
